@@ -2,6 +2,7 @@
 =============================
 > Re-maps a number from one range to another.
 
+[![NPM](https://nodei.co/npm/value-map.png)](https://nodei.co/npm/value-map/)
 
 ## Install
 
